@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34511.84
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Umuv", "Umuv\Umuv.csproj", "{9416ABA0-A71A-4517-A7BF-9DC2AD1B0655}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9416ABA0-A71A-4517-A7BF-9DC2AD1B0655}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9416ABA0-A71A-4517-A7BF-9DC2AD1B0655}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9416ABA0-A71A-4517-A7BF-9DC2AD1B0655}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9416ABA0-A71A-4517-A7BF-9DC2AD1B0655}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {91E11B21-939F-4679-8DDF-EF77BC749A31}
+	EndGlobalSection
+EndGlobal
